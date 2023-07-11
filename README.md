@@ -30,7 +30,10 @@ KPI-4 : State wise and last_credit_pull_d wise loan status
       
 KPI-5 : Home ownership Vs last payment date stats
 
-# Dashboard Video
+# Power BI Dashboard
 
-![image](https://github.com/akashkadam4/Project_Bank-Loan-of-Customers-Finance-/assets/103564871/010e3ebc-bf20-4c36-b849-66c897119b9f)
+![image](https://github.com/akashkadam4/Project_Bank-Loan-of-Customers-Finance-/assets/103564871/5ca844c9-ab32-4ad0-9bc1-a93fcd65214b)
 
+# Conclusion
+
+From the analysis of above dashboards and reports we can draw hidden insights. With the use of gained insights from the given KPI’s of finance dataset, Accurate business decisions are made and can track the business state.
